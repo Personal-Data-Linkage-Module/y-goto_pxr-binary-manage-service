@@ -1,1 +1,3 @@
-# y-goto_pxr-binary-manage-service
+ ## バイナリ管理サービス pxr-binary-manage-service
+
+バイナリファイルのアップロード、ダウンロードを行います。
